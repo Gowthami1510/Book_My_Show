@@ -1,0 +1,11 @@
+.part1, .part2{
+  display:flex;
+}
+
+#navbarScrollingDropdown{
+    color:white;
+}
+
+.d-flex{
+    width:500px;
+}
