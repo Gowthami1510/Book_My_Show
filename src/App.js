@@ -6,7 +6,7 @@ import ImageSlider from './components/ImageSlider';
 import CardSlider from './components/CardSlider/CardSlider';
 import ClickPic from './components/ClickPic';
 import DifferentCards from './components/DifferentCards';
-
+import Footer from './components/Footer';
 function App() {
   return (
     <div >
@@ -15,6 +15,7 @@ function App() {
     <CardSlider/>
     <ClickPic/>
     <DifferentCards/>
+    <Footer/>
     </div>
   );
 }

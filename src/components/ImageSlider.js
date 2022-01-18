@@ -8,39 +8,37 @@ function ImageSlider()
   <Carousel.Item>
     <img style={{align:"center",marginLeft:"150px"}}
       className="d-block w-75"
-      src="./poster5.jpg"
+      src="./nani.jpg"
       alt="First slide"
       height="350px"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h3>Middle Class Abbayi</h3>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
     <img style={{align:"center",marginLeft:"150px"}}
       className="d-block w-75"
-      src="./poster6.jpg"
+      src="./pushpa.jfif"
       alt="Second slide"
       height="350px"
     />
 
     <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3>Pushpa</h3>
+     
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
     <img style={{align:"center",marginLeft:"150px"}}
       className="d-block w-75"
-      src="poster7.png"
+      src="oxygen.jpg"
       alt="Third slide"
       height="350px"
     />
 
     <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <h3>Oxygen</h3>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>

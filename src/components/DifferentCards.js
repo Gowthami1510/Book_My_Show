@@ -12,59 +12,38 @@ function DifferentCards()
   <Carousel.Item>
   <CardGroup style={{display:"flex",gap:"30px",justifyContent:"space-around"}}>
   <Card className="bg-dark text-white">
-  <Card.Img src="card1.jpg" alt="Card image" />
+  <Card.Img src="nani.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
-  </Card.ImgOverlay>
-</Card>
-
-<Card className="bg-dark text-white">
-  <Card.Img src="card2.jpg" alt="Card image" />
-  <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
-  </Card.ImgOverlay>
-</Card>
-
-<Card className="bg-dark text-white">
-  <Card.Img src="card3.jfif" alt="Card image" />
-  <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
-
-  </Card.ImgOverlay>
-</Card>
-
-<Card className="bg-dark text-white">
-  <Card.Img src="card4.jpg" alt="Card image" />
-  <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
    
   </Card.ImgOverlay>
 </Card>
 
 <Card className="bg-dark text-white">
-  <Card.Img src="./card5.jpg" alt="Card image" />
+  <Card.Img src="poster6.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
+   
+  </Card.ImgOverlay>
+</Card>
+
+<Card className="bg-dark text-white">
+  <Card.Img src="lovestory.jpg" alt="Card image" />
+  <Card.ImgOverlay>
+   
+  </Card.ImgOverlay>
+</Card>
+
+<Card className="bg-dark text-white">
+  <Card.Img src="poster.jpg" alt="Card image" />
+  <Card.ImgOverlay>
+    
+   
+  </Card.ImgOverlay>
+</Card>
+
+<Card className="bg-dark text-white">
+  <Card.Img src="./poster2.jpg" alt="Card image" />
+  <Card.ImgOverlay>
+    
    
   </Card.ImgOverlay>
 </Card>
@@ -76,10 +55,9 @@ function DifferentCards()
   <Card className="bg-dark text-white">
   <Card.Img src="poster1.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
+    <Card.Title></Card.Title>
     <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
+
     </Card.Text>
   
   </Card.ImgOverlay>
@@ -88,33 +66,21 @@ function DifferentCards()
 <Card className="bg-dark text-white">
   <Card.Img src="poster2.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
+    
   </Card.ImgOverlay>
 </Card>
 
 <Card className="bg-dark text-white">
   <Card.Img src="poster3.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
+   
   </Card.ImgOverlay>
 </Card>
 
 <Card className="bg-dark text-white">
   <Card.Img src="poster4.jpg" alt="Card image" />
   <Card.ImgOverlay>
-    <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
+   
   
   </Card.ImgOverlay>
 </Card>
@@ -123,10 +89,7 @@ function DifferentCards()
   <Card.Img src="./poster5.jpg" alt="Card image" />
   <Card.ImgOverlay>
     <Card.Title>Card title</Card.Title>
-    <Card.Text>
-      This is a wider card with supporting text below as a natural lead-in to
-      additional content. This content is a little bit longer.
-    </Card.Text>
+  
   </Card.ImgOverlay>
 </Card>
 
