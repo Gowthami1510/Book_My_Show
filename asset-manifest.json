@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Book_My_Show/static/css/main.3bb80169.css",
+    "main.js": "/Book_My_Show/static/js/main.ef606d2c.js",
+    "static/js/787.41debe41.chunk.js": "/Book_My_Show/static/js/787.41debe41.chunk.js",
+    "static/media/logo.svg": "/Book_My_Show/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Book_My_Show/index.html",
+    "main.3bb80169.css.map": "/Book_My_Show/static/css/main.3bb80169.css.map",
+    "main.ef606d2c.js.map": "/Book_My_Show/static/js/main.ef606d2c.js.map",
+    "787.41debe41.chunk.js.map": "/Book_My_Show/static/js/787.41debe41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb80169.css",
+    "static/js/main.ef606d2c.js"
+  ]
+}
