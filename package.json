@@ -2,7 +2,7 @@
   "name": "book_my_show",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/Gowthami1510/Book_My_Show",
+  "homepage":"https://Gowthami1510.github.io/Book_My_Show",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
